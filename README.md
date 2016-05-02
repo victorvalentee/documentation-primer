@@ -31,4 +31,4 @@ You should structure your docs like this:
 - \~\~text\~\~    ->    ~~strikethough text~~
 - \[link\]\(url\) ->   [link](url)
 
-You can also make lists (-/*), quotes (>) and task lists [x]/[ ]
+You can also make lists (-/*), quotes (>), task lists [x]/[ ] and headings (#,##,###, ..., ######).
