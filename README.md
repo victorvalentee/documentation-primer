@@ -26,7 +26,7 @@ You should structure your docs like this:
 
 ## Github markdown things
 - \*\*text\*\*    ->    **bold text**
-- \_text\_        ->    _itelics text_
+- \_text\_        ->    _italics text_
 - \`code\`        ->    `inline code`
 - \~\~text\~\~    ->    ~~strikethough text~~
 - \[link\]\(url\) ->   [link](url)
