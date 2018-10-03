@@ -24,14 +24,14 @@ You should structure your docs like this:
 - Known issues/bugs
 - License (optional, but recommended)
 
-## Github markdown things
+## Github markdown syntax (abridged)
 - \*\*text\*\*    ->    **bold text**
 - \_text\_        ->    _italics text_
 - \`code\`        ->    `inline code`
 - \~\~text\~\~    ->    ~~strikethough text~~
 - \[link\]\(url\) ->   [link](url)
 
-You can also make lists (-/*), quotes (>), task lists [x]/[ ] and headings (#,##,###, ..., ######).
+You can also make lists (- or *), quotes (>), task lists [x] or [ ] and headings (#,##,###, ..., ######).
 
 ------------
 
